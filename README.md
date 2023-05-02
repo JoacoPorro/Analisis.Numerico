@@ -11,4 +11,4 @@ Clases:
 * https://www.youtube.com/playlist?list=PL-vAkTpuZNGAwSUXLD-zoV7FXT9uoFKm0
 * https://www.youtube.com/playlist?list=PL-vAkTpuZNGAwSUXLD-zoV7FXT9uoFKm0
 
-Dejenme una ⭐!
+Dejame una ⭐!
