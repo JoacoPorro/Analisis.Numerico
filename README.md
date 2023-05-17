@@ -9,6 +9,6 @@ Drives:
 Clases: 
 * https://www.youtube.com/playlist?list=PL-vAkTpuZNGCyKcFoCbJc7mVXwMrddszM
 * https://www.youtube.com/playlist?list=PL-vAkTpuZNGAwSUXLD-zoV7FXT9uoFKm0
-* https://www.youtube.com/playlist?list=PL-vAkTpuZNGAwSUXLD-zoV7FXT9uoFKm0
+* https://www.youtube.com/@modelacionnumerica2361
 
 Dejame una ⭐!
