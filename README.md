@@ -1,5 +1,7 @@
 # AnalisisNumerico
-Material de Análisis Númerico FIUBA
+Material de Análisis Númerico FIUBA - 2023 1C Catedra Scwahrz
+
+Arriba hay parciales de la catedra
 
 Drives:
 * https://drive.google.com/drive/u/2/folders/1jlE7xXAAHFyMBXbi85JPRAWYjUpe0GfZ
