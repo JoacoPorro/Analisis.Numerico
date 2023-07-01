@@ -16,5 +16,3 @@ Clases:
 * https://www.youtube.com/@modelacionnumerica2361
 
 Proximamente agrego los videos cortos de la catedra Schwarz
-
-##### Dejame una ⭐!
