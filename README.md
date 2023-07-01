@@ -13,6 +13,6 @@ Clases:
 * https://www.youtube.com/playlist?list=PL-vAkTpuZNGAwSUXLD-zoV7FXT9uoFKm0
 * https://www.youtube.com/@modelacionnumerica2361
 
-###### Proximamente agrego los videos cortos de la catedra Schwarz
+###### Proximamente agrego los videos cortos de la catedra Schwarz y parciales resueltos
 
 ### Viva la Libertad Carajo!
