@@ -1,5 +1,7 @@
 # AnalisisNumerico
-Material de Análisis Númerico FIUBA - 2023 1C Catedra Scwahrz
+###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
+##### Dejame una ⭐!
+
 
 Arriba hay parciales de la catedra
 
@@ -15,4 +17,4 @@ Clases:
 
 Proximamente agrego los videos cortos de la catedra Schwarz
 
-Dejame una ⭐!
+##### Dejame una ⭐!
