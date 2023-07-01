@@ -1,9 +1,7 @@
 # AnalisisNumerico
 ###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
+##### Arriba hay parciales de la catedra
 ##### Dejame una ⭐!
-
-
-Arriba hay parciales de la catedra
 
 Drives:
 * https://drive.google.com/drive/u/2/folders/1jlE7xXAAHFyMBXbi85JPRAWYjUpe0GfZ
