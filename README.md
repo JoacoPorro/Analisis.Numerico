@@ -13,6 +13,9 @@ Clases:
 * https://www.youtube.com/playlist?list=PL-vAkTpuZNGAwSUXLD-zoV7FXT9uoFKm0
 * https://www.youtube.com/@modelacionnumerica2361
 
+Links: 
+* http://wiki.foros-fiuba.com.ar/materias:75:12 (hay finales viejos resueltos de Schwarz)
+
 ###### Proximamente agrego los videos cortos de la catedra Schwarz y parciales resueltos
 
 ### Viva la Libertad Carajo!
