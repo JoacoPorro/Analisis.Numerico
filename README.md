@@ -1,5 +1,5 @@
 # Analisis Numerico I
-###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo. Se busca parciales y finales resueltos 
+###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
 ##### Arriba hay parciales de la catedra
 ##### Dejame una ⭐!
 
