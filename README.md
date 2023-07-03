@@ -4,9 +4,9 @@
 ##### Dejame una ⭐!
 
 Drives:
-* https://drive.google.com/drive/u/2/folders/1jlE7xXAAHFyMBXbi85JPRAWYjUpe0GfZ
-* https://drive.google.com/drive/u/2/folders/1LDcSWIJUmQ2v5WlKoz5FAxEkZDeb8MWB
-* https://drive.google.com/drive/u/2/folders/1oRYD2rEva0jQROUqsCBfIcPJPNsLPKjh
+* https://drive.google.com/drive/folders/1jlE7xXAAHFyMBXbi85JPRAWYjUpe0GfZ
+* https://drive.google.com/drive/folders/1LDcSWIJUmQ2v5WlKoz5FAxEkZDeb8MWB
+* https://drive.google.com/drive/folders/1oRYD2rEva0jQROUqsCBfIcPJPNsLPKjh
 
 Clases: 
 * https://www.youtube.com/playlist?list=PL-vAkTpuZNGCyKcFoCbJc7mVXwMrddszM
