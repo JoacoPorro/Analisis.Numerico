@@ -1,6 +1,6 @@
 # Analisis Numerico I
 ###### Se agradece toda la generosidad! Pasen material a jporro@fi.uba.ar.
-##### Arriba hay parciales de la catedra
+##### Arriba hay parciales de Schwarez
 ##### Dejame una ⭐!
 
 Drives:
