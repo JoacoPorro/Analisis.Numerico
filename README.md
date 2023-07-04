@@ -4,9 +4,9 @@
 ##### Dejame una ⭐!
 
 Drives:
-* https://drive.google.com/drive/folders/1jlE7xXAAHFyMBXbi85JPRAWYjUpe0GfZ     (Sassano)
-* https://drive.google.com/drive/folders/1LDcSWIJUmQ2v5WlKoz5FAxEkZDeb8MWB (Sassano)
-* https://drive.google.com/drive/folders/1oRYD2rEva0jQROUqsCBfIcPJPNsLPKjh     (Sassano)
+* https://drive.google.com/drive/folders/1jlE7xXAAHFyMBXbi85JPRAWYjUpe0GfZ - Sassano
+* https://drive.google.com/drive/folders/1LDcSWIJUmQ2v5WlKoz5FAxEkZDeb8MWB - Sassano
+* https://drive.google.com/drive/folders/1oRYD2rEva0jQROUqsCBfIcPJPNsLPKjh - Sassano)
 
 Clases: 
 * https://www.youtube.com/playlist?list=PL-vAkTpuZNGCyKcFoCbJc7mVXwMrddszM
