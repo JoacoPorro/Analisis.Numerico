@@ -17,6 +17,6 @@ Clases:
 Links: 
 * http://wiki.foros-fiuba.com.ar/materias:75:12 (hay finales viejos resueltos de Schwarz)
 
-###### Proximamente agrego los videos cortos de la catedra Schwarz y parciales resueltos
+###### Proximamente agrego los videos cortos de la catedra Schwarz
 
 ### Viva la Libertad Carajo!
