@@ -1,5 +1,5 @@
 # Analisis Numerico I
-###### Se agradece toda la generosidad! Pasen material a jporro@fi.uba.ar. En busca de material de Schwarz y otras catedras
+###### En busca de material de Schwarz y otras catedras. Pasen material a jporro@fi.uba.ar. 
 ##### Arriba hay parciales de Schwarez 1C - 2023
 ##### Dejame una ⭐!
 
