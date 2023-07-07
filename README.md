@@ -15,7 +15,7 @@ Clases:
 * https://www.youtube.com/@modelacionnumerica2361
 
 Links: 
-* http://wiki.foros-fiuba.com.ar/materias:75:12 (hay finales viejos resueltos de Schwarz)
+* Muchos resueltos de varias catedras - http://wiki.foros-fiuba.com.ar/materias:75:12
 
 ###### Proximamente agrego los videos cortos de la catedra Schwarz
 
