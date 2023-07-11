@@ -17,6 +17,4 @@ Clases:
 Links: 
 * Muchos resueltos de varias catedras - http://wiki.foros-fiuba.com.ar/materias:75:12
 
-###### Proximamente agrego los videos cortos de la catedra Schwarz
-
 ### Viva la Libertad Carajo!
