@@ -1,6 +1,6 @@
 # Analisis Numerico I
 ###### En busca de material de Schwarz y otras catedras. Pasen drives a jporro@fi.uba.ar. 
-##### Arriba hay parciales de Schwarez 1C - 2023
+##### Arriba hay parciales de Schwarez
 ##### Dejame una ⭐!
 
 Drives:
