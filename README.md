@@ -1,5 +1,5 @@
 # Analisis Numerico I
-###### Pasen drives -> jporro@fi.uba.ar. 
+###### Pasen drives -> jporro@fi.uba.ar
 ##### Arriba hay parciales de Schwarez
 ##### Dejame una ⭐!
 
