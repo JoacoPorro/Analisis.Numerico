@@ -1,6 +1,6 @@
 # Analisis Numerico I
 ###### Drives ---> jporro@fi.uba.ar
-##### Arriba hay parciales de Schwarez
+##### Arriba hay mas parciales de Schwarez
 
 
 Drives:
