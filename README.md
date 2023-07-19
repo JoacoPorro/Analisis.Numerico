@@ -1,6 +1,6 @@
 # Material Analisis Numerico FIUBA
-##### Arriba hay mas parciales de Schwarz
 ###### Drives ---> jporro@fi.uba.ar
+##### Arriba hay mas parciales de Schwarz
 
 
 #### Drives:
