@@ -1,4 +1,4 @@
-# Material Analisis Numerico I
+# Material Analisis Numerico
 ###### Drives ---> jporro@fi.uba.ar
 ##### Arriba hay mas parciales de Schwarz
 
