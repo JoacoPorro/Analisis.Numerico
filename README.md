@@ -1,7 +1,7 @@
 # Analisis Numerico I
-###### Pasen drives -> jporro@fi.uba.ar
+###### Drives ---> jporro@fi.uba.ar
 ##### Arriba hay parciales de Schwarez
-##### Dejame una ⭐!
+
 
 Drives:
 * Schwarz - https://drive.google.com/drive/folders/1i5qdzHrs0Mk3ajMTCkB7FZ672-tUMBzr
@@ -16,5 +16,5 @@ Clases:
 
 Links: 
 * Muchos resueltos de varias catedras - http://wiki.foros-fiuba.com.ar/materias:75:12
-
+##### Deja⭐Arriba
 ### Viva la Libertad Carajo!
