@@ -18,7 +18,7 @@
 * https://tide-lantern-9ea.notion.site/Interpolaci-n-Polinomial-ac4e0aa7a33942939d41bba6d774b23f
 
 ### Links: 
-* Muchos resueltos de varias catedras - http://wiki.foros-fiuba.com.ar/materias:75:12
+* [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:75:12) MUCHOS RESUELTOS
 
   
 ### Deja ⭐ Arriba
