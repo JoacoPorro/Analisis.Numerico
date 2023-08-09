@@ -1,7 +1,5 @@
 # Material Analisis Numerico FIUBA
-###### Drives ---> jporro@fi.uba.ar
-##### Arriba hay mas parciales de Schwarz
-
+###### Drives a jporro@fi.uba.ar
 
 ### Drives:
 * __Sassano__ - https://drive.google.com/drive/folders/1jlE7xXAAHFyMBXbi85JPRAWYjUpe0GfZ
