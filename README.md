@@ -11,12 +11,12 @@
 <!-- Subir Cavaliere -->
 
 ### Clases: 
-* https://www.youtube.com/playlist?list=PL-vAkTpuZNGCyKcFoCbJc7mVXwMrddszM
-* https://www.youtube.com/playlist?list=PL-vAkTpuZNGAwSUXLD-zoV7FXT9uoFKm0
-* https://www.youtube.com/@modelacionnumerica2361
+* [2022 2C Sassano](https://www.youtube.com/playlist?list=PL-vAkTpuZNGCyKcFoCbJc7mVXwMrddszM)
+* [2021 2C Sassano](https://www.youtube.com/playlist?list=PL-vAkTpuZNGAwSUXLD-zoV7FXT9uoFKm0)
+* [Modelacion Numerica Youtube](https://www.youtube.com/@modelacionnumerica2361)
 
 ### Resumenes:
-* https://tide-lantern-9ea.notion.site/Interpolaci-n-Polinomial-ac4e0aa7a33942939d41bba6d774b23f
+* [Buen Resumen](https://tide-lantern-9ea.notion.site/Interpolaci-n-Polinomial-ac4e0aa7a33942939d41bba6d774b23f)
 
 ### Links: 
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:75:12) __con resueltos__
