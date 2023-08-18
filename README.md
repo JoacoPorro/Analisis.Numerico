@@ -19,6 +19,7 @@
 * [Buen Resumen](https://tide-lantern-9ea.notion.site/Interpolaci-n-Polinomial-ac4e0aa7a33942939d41bba6d774b23f)
 
 ### Links: 
+* [Algunos Libros](https://drive.google.com/drive/folders/1bg53bKIOPFbmmpcbZunF5-_UOw0FVow5)
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:75:12) __con resueltos__
 
   
