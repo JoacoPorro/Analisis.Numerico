@@ -14,7 +14,7 @@
 ### Clases: 
 * [2022 2C Sassano](https://www.youtube.com/playlist?list=PL-vAkTpuZNGCyKcFoCbJc7mVXwMrddszM)
 * [2021 2C Sassano](https://www.youtube.com/playlist?list=PL-vAkTpuZNGAwSUXLD-zoV7FXT9uoFKm0)
-* [Modelacion Numerica Youtube](https://www.youtube.com/@modelacionnumerica2361)
+* [Canal de Youtube de Re](https://www.youtube.com/@modelacionnumerica2361)
 
 ### Resumenes:
 * [Buen Resumen](https://tide-lantern-9ea.notion.site/Interpolaci-n-Polinomial-ac4e0aa7a33942939d41bba6d774b23f)
