@@ -15,6 +15,7 @@
 * [2022 2C Sassano](https://www.youtube.com/playlist?list=PL-vAkTpuZNGCyKcFoCbJc7mVXwMrddszM)
 * [2021 2C Sassano](https://www.youtube.com/playlist?list=PL-vAkTpuZNGAwSUXLD-zoV7FXT9uoFKm0)
 * [Re - Canal de Youtube](https://www.youtube.com/@modelacionnumerica2361)
+<!-- Clases de Cavaliere https://drive.google.com/drive/folders/1FTWnk2FDlu90DAPHMCNabZfR_r-I6aU- -->
 
 ### Resumenes:
 * [Buen Resumen](https://tide-lantern-9ea.notion.site/Interpolaci-n-Polinomial-ac4e0aa7a33942939d41bba6d774b23f)
