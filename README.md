@@ -1,5 +1,5 @@
 # Material Analisis Numerico I FIUBA
-###### Drives  --> repos.libertarias@gmail.com
+###### repos.libertarias@gmail.com
 
 ### Coleccion de drives: 
 ####
