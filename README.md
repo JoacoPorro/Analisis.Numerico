@@ -4,13 +4,13 @@
 ### Drives: 
 | __Catedra__ | __Drive__ | 
 | :---: | --- | 
-| __Sassano__ | https://drive.google.com/drive/folders/1jlE7xXAAHFyMBXbi85JPRAWYjUpe0GfZ |
-| __Sassano__ | https://drive.google.com/drive/folders/1bKtZwHM9NbjNKPa1_tH0drMwB7Iv7fR3 | 
-| __Sassano__ | https://drive.google.com/drive/folders/1wkm3DhD9poeaSqYdc6I0q1HPr2EJAd6f |
-| __Sassano__ | https://drive.google.com/drive/folders/1LDcSWIJUmQ2v5WlKoz5FAxEkZDeb8MWB |
-| __Schwarz__ | https://drive.google.com/drive/folders/1i5qdzHrs0Mk3ajMTCkB7FZ672-tUMBzr |
-| __Tarela__ | https://drive.google.com/drive/folders/1xQeRWkaOYxpcEicViH8gqqlMuwMgt3Bn |
-| __Re__ | https://drive.google.com/drive/folders/1ebisXwyLHk-19VlxjBcNGCHFyvjnae_O |
+| Sassano | https://drive.google.com/drive/folders/1jlE7xXAAHFyMBXbi85JPRAWYjUpe0GfZ |
+| Sassano | https://drive.google.com/drive/folders/1bKtZwHM9NbjNKPa1_tH0drMwB7Iv7fR3 | 
+| Sassano | https://drive.google.com/drive/folders/1wkm3DhD9poeaSqYdc6I0q1HPr2EJAd6f |
+| Sassano | https://drive.google.com/drive/folders/1LDcSWIJUmQ2v5WlKoz5FAxEkZDeb8MWB |
+| Schwarz | https://drive.google.com/drive/folders/1i5qdzHrs0Mk3ajMTCkB7FZ672-tUMBzr |
+| Tarela | https://drive.google.com/drive/folders/1xQeRWkaOYxpcEicViH8gqqlMuwMgt3Bn |
+| Re | https://drive.google.com/drive/folders/1ebisXwyLHk-19VlxjBcNGCHFyvjnae_O |
 
 <!-- Subir Cavaliere -->
 
