@@ -1,5 +1,4 @@
 # Material Analisis Numerico I FIUBA
-###### repos.libertarias@gmail.com
 
 ### Coleccion de drives: 
 ####
@@ -31,3 +30,5 @@
   
 ### Deja ⭐ Arriba
 ### Viva la Libertad Carajo!
+###### repos.libertarias@gmail.com
+
