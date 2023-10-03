@@ -25,6 +25,7 @@
 
 ### Links: 
 * [Libros](https://drive.google.com/drive/folders/1bg53bKIOPFbmmpcbZunF5-_UOw0FVow5)
+* [Parciales Schwarz 1C2023](/Parciales%20Schwarz)
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:75:12) __con resueltos__
 
   
