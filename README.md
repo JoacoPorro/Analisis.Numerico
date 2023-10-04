@@ -31,5 +31,3 @@
   
 ### Deja ⭐ Arriba
 ### Viva la Libertad Carajo!
-##### **repos.libertarias@gmail.com**
-
