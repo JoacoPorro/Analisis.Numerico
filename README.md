@@ -9,6 +9,7 @@
 | Sassano | https://drive.google.com/drive/folders/1wkm3DhD9poeaSqYdc6I0q1HPr2EJAd6f |
 | Sassano | https://drive.google.com/drive/folders/1LDcSWIJUmQ2v5WlKoz5FAxEkZDeb8MWB |
 | Tarela |  https://drive.google.com/drive/folders/1xQeRWkaOYxpcEicViH8gqqlMuwMgt3Bn |
+| Cavaliere | https://drive.google.com/drive/folders/1O-ZPUcZUlS4xFWnheiqaqzOLNNgYSG1f |
 | Schwarz | https://drive.google.com/drive/folders/1i5qdzHrs0Mk3ajMTCkB7FZ672-tUMBzr |
 | Re |      https://drive.google.com/drive/folders/1ebisXwyLHk-19VlxjBcNGCHFyvjnae_O |
 
