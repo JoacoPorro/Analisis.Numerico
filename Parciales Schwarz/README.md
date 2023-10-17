@@ -1,7 +1,7 @@
 ## Para la segunda oportunidad ademas entran: 
-- Diferenciación Progresiva
-- Diferenciación Regresiva
-- Diferenciación Centrada
+- Diferenciacion Progresiva
+- Diferenciacion Regresiva
+- Diferenciacion Centrada
 ## Y para la ultima: 
 - Rectángulos
 - Trapecios
