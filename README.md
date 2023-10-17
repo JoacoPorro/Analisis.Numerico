@@ -6,8 +6,7 @@
 | :---: | --- | 
 | Sassano | https://drive.google.com/drive/folders/1jlE7xXAAHFyMBXbi85JPRAWYjUpe0GfZ |
 | Sassano | https://drive.google.com/drive/folders/1bKtZwHM9NbjNKPa1_tH0drMwB7Iv7fR3 | 
-| Sassano | https://drive.google.com/drive/folders/1wkm3DhD9poeaSqYdc6I0q1HPr2EJAd6f |
-| Sassano | https://drive.google.com/drive/folders/1LDcSWIJUmQ2v5WlKoz5FAxEkZDeb8MWB |
+| Sassano | https://drive.google.com/drive/folders/1BMhNILXzev3JsEFPDpQFcUpSL43Fo6Y- |
 | Tarela |  https://drive.google.com/drive/folders/1xQeRWkaOYxpcEicViH8gqqlMuwMgt3Bn |
 | Schwarz | https://drive.google.com/drive/folders/1i5qdzHrs0Mk3ajMTCkB7FZ672-tUMBzr |
 | Re |      https://drive.google.com/drive/folders/1ebisXwyLHk-19VlxjBcNGCHFyvjnae_O |
