@@ -1,2 +1,8 @@
-## Para la segunda oportunidad ademas entran los temas: Diferenciación Progresiva, Regresiva y Centrada
-## Y para la ultima: Rectángulos, Trapecios y Simpson simple
+## Para la segunda oportunidad ademas entran: 
+- Diferenciación Progresiva
+- Diferenciación Regresiva
+- Diferenciación Centrada
+## Y para la ultima: 
+- Rectángulos
+- Trapecios
+- Simpson simple
